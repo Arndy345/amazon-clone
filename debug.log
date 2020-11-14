@@ -1,0 +1,30 @@
+[0901/091258.552:ERROR:file_io.cc(89)] ReadExactly: expected 36, observed 0
+[1111/061713.859:ERROR:settings.cc(320)] Settings magic is not 1129342067
+[1111/061713.981:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1111/062713.997:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1111/062713.998:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1111/063213.983:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1111/064714.023:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1111/070214.186:ERROR:crash_report_database_win.cc(428)] unexpected header
+[1111/082924.426:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1112/000126.762:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/022604.706:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/121613.040:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/122613.070:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/122613.105:ERROR:directory_reader_win.cc(43)] FindFirstFile: The system cannot find the path specified. (0x3)
+[1113/122613.105:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/122613.105:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/123113.157:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/124613.173:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/130113.173:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/131613.177:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/133113.181:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1113/155420.593:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1114/013422.068:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1114/014922.114:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1114/020422.119:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1114/021922.120:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1114/023422.271:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1114/024922.327:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1114/030422.329:ERROR:crash_report_database_win.cc(457)] unexpected header
+[1114/031922.332:ERROR:crash_report_database_win.cc(457)] unexpected header

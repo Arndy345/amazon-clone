@@ -1,0 +1,60 @@
+[debug] [2020-11-13T01:17:54.737Z] ----------------------------------------------------------------------
+[debug] [2020-11-13T01:17:54.747Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\NONSO\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-11-13T01:17:54.749Z] CLI Version:   8.15.1
+[debug] [2020-11-13T01:17:54.749Z] Platform:      win32
+[debug] [2020-11-13T01:17:54.749Z] Node Version:  v10.16.2
+[debug] [2020-11-13T01:17:54.753Z] Time:          Fri Nov 13 2020 02:17:54 GMT+0100 (West Africa Standard Time)
+[debug] [2020-11-13T01:17:54.754Z] ----------------------------------------------------------------------
+[debug] [2020-11-13T01:17:54.754Z] 
+[debug] [2020-11-13T01:17:55.118Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-11-13T01:17:55.121Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\NONSO\Desktop\Web devt\React\amazonClone
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using clone-77141. 
+[debug] [2020-11-13T01:21:27.674Z] > refreshing access token with scopes: ["email","https://www.googleapis.com/auth/cloud-platform","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","openid"]
+[debug] [2020-11-13T01:21:27.679Z] >>> HTTP REQUEST POST https://www.googleapis.com/oauth2/v3/token  
+ <request body omitted>
+[debug] [2020-11-13T01:21:48.912Z] Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+[debug] [2020-11-13T01:21:49.038Z] FirebaseError: Authentication Error: Your credentials are no longer valid. Please run firebase login --reauth
+
+For CI servers and headless environments, generate a new token with firebase login:ci
+    at Object.<anonymous> (C:\Users\NONSO\AppData\Roaming\npm\node_modules\firebase-tools\lib\auth.js:23:32)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+    at Object.<anonymous> (C:\Users\NONSO\AppData\Roaming\npm\node_modules\firebase-tools\lib\init\features\hosting\github.js:20:16)
+    at Module._compile (internal/modules/cjs/loader.js:778:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:789:10)
+    at Module.load (internal/modules/cjs/loader.js:653:32)
+    at tryModuleLoad (internal/modules/cjs/loader.js:593:12)
+    at Function.Module._load (internal/modules/cjs/loader.js:585:3)
+    at Module.require (internal/modules/cjs/loader.js:692:17)
+    at require (internal/modules/cjs/helpers.js:25:18)
+[error] 
+[error] Error: Failed to get Firebase project clone-77141. Please make sure the project exists and your account has permission to access it.
